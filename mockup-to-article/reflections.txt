@@ -7,3 +7,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+HTML; Elements, attributes, anchor tags, href, tree, DOM.
+HTML is pretty straight forward.
+Keeping track of my tags.
+using MDN for research and W3schools.
